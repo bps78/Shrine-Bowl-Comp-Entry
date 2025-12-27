@@ -1,2 +1,3 @@
 Team Offense stat totals from Sports Reference - https://www.sports-reference.com/cfb/years/2017-team-offense.html
 Team SOS from Team Rankings - https://www.teamrankings.com/college-football/ranking/schedule-strength-by-other
+Combine data from Sports Reference - https://www.pro-football-reference.com/draft/2017-combine.htm
